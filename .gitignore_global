@@ -1,0 +1,6 @@
+*~
+.DS_Store
+*.rbuistate
+*.xojo_uistate
+Builds*.rbvcp
+Builds*.xojo_project
